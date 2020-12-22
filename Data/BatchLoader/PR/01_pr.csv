@@ -1,0 +1,2 @@
+title;FilePath;FileName
+test data PR;$($config.project.data.batchloader)/PR/Content/content.01.txt;content.01.txt 

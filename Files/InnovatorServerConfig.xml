@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <element>
+    <xpath>//Innovator/Mail</xpath>
+    <value></value>
+    <action>edit</action>
+    <attribute>
+      <type>variable</type>
+      <name>SMTPServer</name>
+      <value>$global:config.system.email_server</value>
+    </attribute>
+  </element>
+</root>

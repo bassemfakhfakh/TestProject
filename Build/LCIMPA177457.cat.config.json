@@ -1,0 +1,23 @@
+{
+  "project": {
+	"ReferenceFolder":"C:\\Temp\\MD5Temp_11SP15_CAT_Test_12_15"
+  },
+  "install": {  
+	"inst_aras_cd_folder": "C:\\Users\\60000166\\Downloads\\11.0 SP15 CD Image\\",
+	"inst_msi_file_name" : "InnovatorSetup.msi",
+	"inst_log_file" :"C:\\Users\\60000166\\Downloads\\11.0 SP15 CD Image\\innovatorSetup_12_22_01.log",
+	"inst_install_dir":"C:\\Program Files (x86)\\Aras",
+	"inst_aras_server_name" : "11SP15Test",
+	"inst_lic_key" : "3da32171aa2999dedee2e45c99f749e8",
+	"inst_lic_act" : "89F754584FF044D19130A120CA0BAE2E",
+	"inst_vault_name" :"DefaultVault",
+	"inst_sql_admin":"sa",
+	"inst_sql_admin_pwd":"innovator",
+	"inst_sql_server":"LCIMPA177457",
+	"inst_db_name" :"11SP15Test",
+	"inst_aras_user":"innovator",
+	"inst_aras_user_pwd":"innovator",
+	"inst_aras_user_regular":"innovator_regular",
+	"inst_aras_user_regular_pwd":"Cimpa@Actia2018"
+  }
+}

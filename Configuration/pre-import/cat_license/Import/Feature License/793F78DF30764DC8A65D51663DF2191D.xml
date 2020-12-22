@@ -1,0 +1,15 @@
+﻿<AML>
+ <Item type="Feature License" id="793F78DF30764DC8A65D51663DF2191D" action="add">
+  <activation_key>P7BT61R96Y0SBRYLQU63ZH3QDTS1RJ69</activation_key>
+  <available_to keyed_name="World" type="Identity">A73B655731924CD0B027E4F4D5FCC0A9</available_to>
+  <database_engine_edition>3</database_engine_edition>
+  <enforcement_mode>Error</enforcement_mode>
+  <expiration_date>2021-05-31T00:00:00</expiration_date>
+  <feature>Aras.EssentialsSubscription</feature>
+  <framework_license_key>3da32171aa2999dedee2e45c99f749e8</framework_license_key>
+  <license_data>PihxdKpfTGPVxm6hzBS74xKyDK+4uIPNYlg8qi8huS2A3IcrR2xwDkZ2the4H2uB9l59amb3OeCXTdfTwF/HKEEvl/JnZ9dtYZl5NvJFD6EPUKmq46hILVrLlg6KrE/apA3D30Lp7MuRgEI7g4e0uXWfo4YdPiNDbcIZC0RD2T8=|J0l9J9rdCEPy6qXOsByoyYggxR0Oqei/C/LvJXfgpXm0iF0wYCnR96AswBPQIt/wWfJ5b4xgOahRBBxIyuV1sbTJXvgAI/B/r+QniJtkHO7G8HVNpXNJgjEZ6z6VMB9HSfaOdMOGBt7HiP4SjDFuPhISoFqe0fHZ6e9cddAZdZcA|C9A+3+h0jd9id6lOpHsNYqb0ilFmwnROZefhsZwVeQ63nuGtKis9XLcw+JMaVTWuta1h88PZC8qnRm0ah7l6OYaCYZKPwNrZ6WejnIn2BTxC3Vul1+2f1GJf2NwbZc1XK7tx9Sd+tiYPoarQtTXLt82/ScfCnsC4Myt6u1mgfIoA|sknoit9dIIrTc4Uz7P/Sp7u5NNasYKQe5780vY02oQjQiLQy4u2FwglrMfpbsCJM70rnydMc/xjVRJ4YWHJQ6j7B8jKsWvjxeiqAHlEcmrSQILsrmFNQc6BzQHppHQsaPwKxYLWk2jwVOTCx0G1ZWCLz9vHJvJ+jTS8HCKkT5i4=|RIVGNzuHHVKyCdlf07ANyGk1R+zsEbV1Wz/Ut95s2SR8IHwWBWhAaeeJ+CWB08DKLNLRPV+riSQzk+iCyKRvDH4geGHilFu1bm6zq1JY+Yv3waDaANgQ2im33FGLjOumfghiiJQVYKab9/p1UmVmV8ScYGd8jeZzJvckpwr5JFw=|YDzOFzf62bwqVhiZVs+JfbbBTupd04rsJhlXAwfjljL4/SxWQAZ3sJ6pO365aVav/3UJ8i+Fc6erTLTtjqDafhqHbulQ1yTbXK7Dy5FTmwvF3IpFhlpguOjPEAe2mV4k5pUoy+u3KdyBucDCfo5CDeWdUycrze9VTCMZdzW7u4oA|uFJwFzhapRp35PwICtnBrX+IcfhgcrfX5tUAiOEPDiO5b5JZFtK5yJGhCxpAFMljhB2KGRqw+jzwJxAoiQr00YkaSRDuA2GknQj3SoXKhjiqNTfytkEP/s8+SujX5upWQbOXnpv6BCnUyDoa7Dw785OpoA/dpGZFldIkODNCkD4=|eK11AVDBBS3od80q5vcH8NjbQgpwDYQBwiLsCgFMnt6zb57CbEp66VRIvXfapYadST/E3WEChpBLog+kjaMg7j46ae5XwLt0tTrYcOR3Vhp1C+iku5e0p1lI3KoNaUd/Tpr9XQwnZte7h1dvspbi0cSn3ps74CPuomxE+55nbGA=</license_data>
+  <license_description>CIMPA - Partner Essentials License</license_description>
+  <mac_address>705A0F91CA3D</mac_address>
+  <start_date>2020-06-01T00:00:00</start_date>
+ </Item>
+</AML>

@@ -1,0 +1,10 @@
+{
+  "project": {
+    "name": "CAT_Test",
+    "short_name": "CAT_Test",
+    "version": "3.0"
+  },
+  "system": {
+    "email_server": "smtp.ad.cimpa.corp"
+  }
+}
