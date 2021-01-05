@@ -1,6 +1,6 @@
 {
   "project": {
-	"ReferenceFolder":"C:\\Temp\\MD5Temp_11SP15_CAT_Test_12_15"
+	"ReferenceFolder" : "C:\\Temp\\MD5Temp_11SP15_CAT_Test_12_15"
   },
   "install": {  
 	"inst_aras_cd_folder": "C:\\Users\\60000166\\Downloads\\11.0 SP15 CD Image\\",
