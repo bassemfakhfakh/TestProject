@@ -2,9 +2,11 @@
   "project": {
     "name": "CAT_Test",
     "short_name": "CAT_Test",
-    "version": "3.0"
+    "version": "3.0",
+	"environments" : "dev, val, int, prod"
   },
   "system": {
-    "email_server": "smtp.ad.cimpa.corp"
+    "email_server": "smtp.ad.cimpa.corp",
+    "email_server_prod": "queue"
   }
 }
